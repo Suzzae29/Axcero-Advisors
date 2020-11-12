@@ -215,3 +215,40 @@
     background-color: rgb(223, 214, 214) !important;
     border-radius: 90px
 }
+
+.transact{
+    margin-top: 20px;
+}
+
+.transact h4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pen{
+    height: 1.5px;
+    background:rgb(172, 166, 166);
+     
+}
+
+.debt{
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    grid-gap: 20px;
+    
+}
+
+.debt img{
+    height: 275px;
+}
+
+.down{
+    position: absolute;
+    top: 18%;
+    left: 85%;
+}
+
+.up{
+    position: absolute;
+    top: 66%;
+    left: 85%;  
+}
